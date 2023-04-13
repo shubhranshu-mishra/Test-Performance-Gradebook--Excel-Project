@@ -1,8 +1,10 @@
 # Test Performance Gradebook (Excel Project)
 
-Data Source- Created by Self (Not an actual data)
+### Data Source- 
+Created by Self (Not an actual data)
 
-Given- Data was created which includes
+### Given-
+Data was created which includes
 - Employee first name
 - Employee last name
 - Safety Test (possible points: 10)
@@ -10,7 +12,7 @@ Given- Data was created which includes
 - Financial Skill Test (possible points: 100)
 - Drug Test (ossible points: 1 or 0) 
 
-Procedure- 
+### Procedure- 
 - Conditional formatting was done on the tests results for better visualization
 - Percentage of all 4 components were calculated
 - Conditional formatting was also performed in these 4 columns to visualize who scored less than 50% in each test 
@@ -19,7 +21,7 @@ Procedure-
 - For each of the above steps, maximum, minimum, average and total values were calculated
 
 
-Excel formulas used
+### Excel formulas used
 - OR
 - MAX
 - MIN
@@ -28,4 +30,4 @@ Excel formulas used
 - Arithamtic Operators (+,-,*,/) 
 - Percentage
 
-Done by Shubhranshu Mishra (Github: shubhranshu-mishra)
+### Done by Shubhranshu Mishra (Github: shubhranshu-mishra)
